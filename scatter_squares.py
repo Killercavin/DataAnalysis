@@ -14,6 +14,6 @@ plt.xlabel('Values', fontsize=12.5, color='blue')
 plt.ylabel('Square of Values', fontsize=12.5, color='green')
 
 
-plt.scatter(y_values, x_values)
+# plt.scatter(y_values, x_values)
 plt.plot(y_values, x_values)
 plt.show()
